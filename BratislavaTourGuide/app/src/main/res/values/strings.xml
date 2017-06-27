@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Bratislava Tour Guide</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="category_attraction">Attraction</string>
+    <string name="category_eatAndDrink">Eat and Drink</string>
+    <string name="category_events">Events</string>
+    <string name="category_shopping">Shopping</string>
+    <string name="title">title</string>
+    <string name="address">address</string>
+
+    <string name="castle">Bratislava Castle</string>
+    <string name="castle_description">"Bratislava Castle is one of Bratislava’s most famous and visited monuments. Getting to the castle is easy as it takes just 30 minutes on the footpath from the center of town. From the courtyard, there is a view of Petržalka, the oldest of Slovakia’s housing estate neighborhoods, as well as of the UFO and the SNP and Apollo bridges."</string>
+
+    <string name="slavin">Slavín</string>
+    <string name="slavin_description">"Slavín is the largest war memorial in Central Europe, and its 52-meter height makes it one of the city’s most dominant features. Buried here are 6,845 soldiers of the Soviet Red Army who fell in the liberation of Bratislava during World War II. Slavín is open anytime, but the best time to look out over the city is in the evening."</string>
+
+    <string name="gallery">Danubiana</string>
+    <string name="gallery_description">"On the 9th September 2000, less than 15 kilometres south of the centre of Bratislava, on the edge of a peninsula where the mighty Danube flows, the opening of one of the youngest museums of modern art in Europe - Danubiana - took place. The River Danube has lent the museum its name and the rest is the result of the enthusiasm and initiative of the Slovak gallery owner Dr. Vincent Polakovič and the financial resources of the Dutch collector and art patron Gerard H. Meulensteen."</string>
+
+    <string name="ufoView"> UFO</string>
+    <string name="ufoView_description">The observation tower above the Danube River is one of the symbols of Bratislava, the capital of Slovakia. The UFO is perched 95 meters above the river, and daredevils with no fear of heights can look out in any direction more than 100 kilometers at the surrounding countryside. </string>
+
+    <string name="resaurant1">Slovak pub</string>
+    <string name="restaurant1_address">This typical old Slovak pub is a real maze where you can learn a great deal about the history of the Slovak nation. It has an old-fashioned atmosphere, a large selection of home-made fare, the largest selection of Slovak beers in the city – and surprisingly agreeable prices. It is not only one of the largest pubs (capacity in excess of 500 people) it is also one of the best in the city. A progressive feature is that students and non-smokers are charged at reduced rates.</string>
+
+    <string name="resaurant2">Beer palace</string>
+    <string name="restaurant2_address">The Beer Palace is located in the historical Palace of the Motešický family on Gorkeho Street. Its history dates back to 1590s. The building was known for centuries as a luxury inn. Rich nobles stayed here during council meetings, court proceedings, or the coronation of Hungarian kings. </string>
+
+    <string name="resaurant3">Botel Pressburg Restaurant</string>
+    <string name="restaurant3_address">The 80-seat Pressburg Botel restaurant off ers seasonal food with pleasant, quiet dining by the river. Cocktails and BBQ specialties are served on the 130-seat sun terrace, accompanied by live music.</string>
+
+    <string name="resaurant4">Foxford</string>
+    <string name="restaurant4_address">Books, coffee and snacks in a „grown up cool“ style – that‘s Foxford with its three spacious coffee shops (or borderline restaurants, if you will). The slightly confusing menu offers interesting snacks and light meals, and of course, no Coke or Pepsi, only original, creative concoctions and various caffeinated beverages.</string>
+
+    <string name="event1">Celts from Bratislava</string>
+    <string name="event1_desctription">10. July - 15. July 2017 \nRevival of the customs and traditions of our ancestors.</string>
+    <string name="event1_url">"https://www.visitbratislava.com/events/celts-from-bratislava/"</string>
+
+    <string name="event2">Like at home</string>
+    <string name="event_desctription2">"31. March - 29. October 2017 \nModel Situation of Slovak Sculpture in the 20th and 21st Century. An exhibition created as a “model situation” reflects the crucial changes in the development of our sculpture in the 20th and 21st century (from traditional sculpture to contemporary forms) with the aim to educate the public and contribute to general recognition of sculpture."</string>
+    <string name="event2_url">"https://www.facebook.com/events/1678075839159929/"</string>
+
+    <string name="event3">The Cultural Summer and Castle Festival</string>
+    <string name="event_desctription3">"23 June - 25. June 2017 \nThe biggest city festival, called Cultural Summer and Bratislava Castle Celebrations will be already the 42th edition in 2017. As last year it plans to create a scene in Bratislava full of multi-genre programs for residents, but also summer visitors to the capital."</string>
+    <string name="event3_url">"http://www.bkis.sk/"</string>
+
+    <string name="event4">Don Quijote </string>
+    <string name="event_desctription4">1. March - 29. October 2017 \nThe exhibition presents a selection of the authors’ works of illustration and free artistic creation that came to existence in Slovakia in the 20th and 21st century: Ilavsky, Bohumir Prihel, Ľubomír Kellenberger, Albín Brunovský and others.</string>
+    <string name="event4_url">"http://www.gmb.sk/"</string>
+
+    <string name="event5">Gourmet Fest </string>
+    <string name="event_desctription5">23 June - 25. June 2017 \nThe ninth year of the oldest and largest food festival in our country, in terms of the number of presented restaurants, wine makers, farmers and dealers of various delicacies. During the three days you will have the opportunity to taste the best restaurants and meals from chefs, according to the gastronomic guide Gourmet in Slovakia. A rich program full of culinary and bartending shows, workshops on healthy eating and traditional cooking school will be prepared again during these days.</string>
+    <string name="event5_url">http://www.gurmanfestbratislava.sk/</string>
+
+    <string name="shop1">Aupark</string>
+    <string name="shop1_address">Einsteinova 23, 85101 Bratislava</string>
+
+    <string name="shop2">Central</string>
+    <string name="shop2_address">Metodova 6, 821 08 Bratislava</string>
+
+    <string name="shop3">Eurovea</string>
+    <string name="shop3_address">Pribinova 8, 811 09 Bratislava</string>
+
+    <string name="shop4">Polus City Center</string>
+    <string name="shop4_address">Vajnorská 10645/100, 831 04 Bratislava</string>
+
+</resources>
